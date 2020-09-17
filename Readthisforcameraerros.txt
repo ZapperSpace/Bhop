@@ -1,0 +1,2 @@
+if you wanna use thses codes for the camera setting script and playercontrols setting you gotta to the unity INPUT and add too more thingys next to cancel input: RightStickHorizontal graivty 1 dead 0.19 sens 1 type joystick aixs 4th ||| RightStickVeritcal same shit but axis is 5th
+this only works for unity 2018 and if u dont understna d my direction im suire its 1am and i have skool trmmw ;_; but idfc y u here u on ur own 
